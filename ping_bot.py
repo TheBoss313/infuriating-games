@@ -1,5 +1,5 @@
 from discord.ext import commands
-token = 'NzQ2MDQ1NDY0MzQzNzQwNTM3.Xz6m-w.diRvHf_p8RIgKUQ5M-ZXuxRPeM0'
+token = '' # DM SpaceDude101#5831 for token then put into the quotes
 prefix = '.'
 client = commands.Bot(command_prefix=prefix)
 client.remove_command("help")
